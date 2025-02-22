@@ -1,5 +1,5 @@
 
-Content-Based Movie Recommender System Using TMDb Dataset with Streamlit Frontend and Heroku Deployment.
+**Content-Based Movie Recommender System Using TMDb Dataset with Streamlit Frontend and Heroku Deployment.**
 
 This project presents a fully developed content-based movie recommender system built using the TMDb (The Movie Database) dataset. The system is designed to suggest movies to users based on their preferences by leveraging cosine similarity for content analysis. The project encompasses a complete pipeline, from data preprocessing and feature vectorization to building a user-friendly frontend with Streamlit and deploying the application on Heroku for public accessibility.
 
